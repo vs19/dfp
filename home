@@ -1,0 +1,172 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="shortcut icon" href="https://www.binaryhexconverter.com/favicon.ico">
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+
+    <title> Quickly Convert Decimal - Fraction - Percent Using This Tool </title>
+    <meta name="description" content="DecimalFractionPercent is a handy set of online binary converter tools including binary, decimal, hexadecimal, ascii text and octal base calculator.">
+    <link rel="canonical" href="https://www.decimalfractionpercent.com/">
+  </head>
+  <body>
+  
+    <div class="container">
+    <!-- nav -->
+<nav class="navbar navbar-expand-lg navbar-dark fixed-top" style="background: #00203fff;">
+    <div class="container">
+      <a class="navbar-brand" href="#">Decimal-Fraction-Percent</a>
+<!--	  <a href="#"><img src="https://4.bp.blogspot.com/-LxqPlizQVkI/XIJubLnjJQI/AAAAAAAADiM/mMqTkjMlxUURDuyJAwAa_7_ip37WSnOiwCK4BGAYYCw/s257/ebankhelp%2Bmobile%2Blogo.jpg" alt="" class="img-fluid"   height="100" width="100"></a> -->
+      <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="navbar-collapse collapse" id="navbarResponsive" style="">
+        <ul class="navbar-nav ml-auto">
+          <li class="nav-item active">
+            <a class="nav-link" href="#">Home
+              <span class="sr-only">(current)</span>
+            </a>
+          </li>
+          <li class="nav-item active">
+            <a class="nav-link" href="#">About Us</a>
+          </li>
+          <li class="nav-item active">
+            <a class="nav-link" href="#">Privacy Policy</a>
+          </li>
+		  <li class="nav-item active">
+            <a class="nav-link" href="#">Disclaimer</a>
+          </li>
+          <li class="nav-item active">
+            <a class="nav-link" href="#">Contact Us</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+  
+  <br><br>
+	 <!-- Welcome -->
+  <header class="bg-primary text-white border-left border-right border-secondary">
+    <div class="container text-center" style="padding: 50px 0px 50px 0px;" >
+      <h1>Welcome to Decimal-Fraction-Percent!</h1>    
+    </div>
+  </header>
+<!-- table 
+<table class="table table-bordered">
+  <thead class="thead-light">
+    <tr>
+	  <th scope="col">Decimal Converters</th>
+	  <th scope="col">Fraction Converters</th>      
+      <th scope="col">Percent Converters</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td scope="row"><a href="https://www.binaryhexconverter.com/binary-to-hex-converter" title="Binary To Hex Converter">Binary To Hex Converter</a></td>
+      <td><a href="https://www.binaryhexconverter.com/binary-to-hex-converter" title="Binary To Hex Converter">Binary To Hex Converter</a></td>
+      <td><a href="https://www.binaryhexconverter.com/binary-to-hex-converter" title="Binary To Hex Converter">Binary To Hex Converter</a></td>
+    </tr>
+	<tr>
+      <td scope="row"><a href="https://www.binaryhexconverter.com/binary-to-hex-converter" title="Binary To Hex Converter">Binary To Hex Converter</a></td>
+      <td><a href="https://www.binaryhexconverter.com/binary-to-hex-converter" title="Binary To Hex Converter">Binary To Hex Converter</a></td>
+      <td><a href="https://www.binaryhexconverter.com/binary-to-hex-converter" title="Binary To Hex Converter">Binary To Hex Converter</a></td>
+    </tr>
+	<tr>
+      <td scope="row"><a href="https://www.binaryhexconverter.com/binary-to-hex-converter" title="Binary To Hex Converter">Binary To Hex Converter</a></td>
+      <td><a href="https://www.binaryhexconverter.com/binary-to-hex-converter" title="Binary To Hex Converter">Binary To Hex Converter</a></td>
+      <td><a href="https://www.binaryhexconverter.com/binary-to-hex-converter" title="Binary To Hex Converter">Binary To Hex Converter</a></td>
+    </tr>
+  </tbody>
+</table>
+<!-- table -->
+	 <!-- content -->
+    <div class="container border border-secondary bg-light">
+	<div class="row" style="padding: 20px 30px 20px 30px;">
+	<p>By using our new effective conversion tools, you can easily <em>convert bin, hex, decimal, binary and ascii numbers</em>
+    to each other. All you need is to open your conversion pair page and type the number in the relevant box.
+    In addition to that, we also help you with the basic information you need to know about these conversions.
+    Try our new excellent and convenient <strong>binary, hexadecimal, decimal calculator</strong> online right now!
+
+</p>
+	</div>
+    <div class="row" style="padding: 20px 10px 20px 10px;">
+	<!-- content 1 -->
+	<div class="col-md-4 text-center" id="dec">
+     <table class="table table-bordered">
+     <thead class="thead-light">
+      <tr>     
+      <th scope="col">Decimal Converters</th>    
+      </tr>
+    </thead>
+    <tbody>
+    <tr>
+      <td scope="row"><a class="text-dark" href="https://www.binaryhexconverter.com/binary-to-hex-converter" title="Binary To Hex Converter">Binary To Hex Converter</a></td>
+    </tr>
+	<tr>
+      <td scope="row"><a class="text-dark" href="https://www.binaryhexconverter.com/binary-to-hex-converter" title="Binary To Hex Converter">Binary To Hex Converter</a></td>
+    </tr>
+	<tr>
+      <td scope="row"><a class="text-dark" href="https://www.binaryhexconverter.com/binary-to-hex-converter" title="Binary To Hex Converter">Binary To Hex Converter</a></td>
+    </tr>
+  </tbody>
+</table>
+    </div>
+	<!-- content 2 -->
+    <div class="col-md-4 text-center" id="fra">
+     <table class="table table-bordered">
+     <thead class="thead-light">
+      <tr>     
+      <th scope="col">Fraction Converters</th>    
+      </tr>
+    </thead>
+    <tbody>
+    <tr>
+      <td scope="row"><a class="text-dark" href="https://www.binaryhexconverter.com/binary-to-hex-converter" title="Binary To Hex Converter">Binary To Hex Converter</a></td>
+    </tr>
+	<tr>
+      <td scope="row"><a class="text-dark" href="https://www.binaryhexconverter.com/binary-to-hex-converter" title="Binary To Hex Converter">Binary To Hex Converter</a></td>
+    </tr>
+	<tr>
+      <td scope="row"><a class="text-dark" href="https://www.binaryhexconverter.com/binary-to-hex-converter" title="Binary To Hex Converter">Binary To Hex Converter</a></td>
+    </tr>
+  </tbody>
+</table>	
+     
+    </div>	
+	<!-- content 3 -->
+    <div class="col-md-4 text-center" id="pre">
+     <table class="table table-bordered">
+     <thead class="thead-light">
+      <tr>     
+      <th scope="col">Percent Converters</th>    
+      </tr>
+    </thead>
+    <tbody>
+    <tr>
+      <td scope="row"><a class="text-dark" href="https://www.binaryhexconverter.com/binary-to-hex-converter" title="Binary To Hex Converter">Binary To Hex Converter</a></td>
+    </tr>
+	<tr>
+      <td scope="row"><a class="text-dark" href="https://www.binaryhexconverter.com/binary-to-hex-converter" title="Binary To Hex Converter">Binary To Hex Converter</a></td>
+    </tr>
+	<tr>
+      <td scope="row"><a class="text-dark" href="https://www.binaryhexconverter.com/binary-to-hex-converter" title="Binary To Hex Converter">Binary To Hex Converter</a></td>
+    </tr>
+  </tbody>
+</table>
+    </div>  
+
+	
+	</div>
+	
+	</div>	
+  <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+  </body>
+</html>
