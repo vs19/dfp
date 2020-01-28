@@ -73,11 +73,11 @@ function decimal (number){
 	}
 	
  }
-	var finalNumber = Math.max(...df);
-	return finalNumber;
+	
 	
  }
 
-	
+	var finalNumber = Math.max(...df);
+	return finalNumber;
 	
 }
