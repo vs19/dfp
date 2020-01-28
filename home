@@ -125,9 +125,15 @@ function divi(n, d) {
         }
 
     }
-
+  if (finalNumber === null){
+  
+  return "none"
+  else {
   var finalNumber = Math.max(...df);
   return finalNumber;
+  
+  }
+  }
 }
 
 
