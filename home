@@ -77,7 +77,59 @@ function decimal (number){
 	
  }
 
-	var finalNumber = Math.max(...df);
-	return finalNumber;
+	
 	
 }
+
+function divi(n, d) {
+
+    //declaring arrays
+
+    var dn = [];
+    var dd = [];
+    var df = [];
+
+    //finding divisors of numerator between 2 & 100
+
+    for (i = 2; i < 101; i++) {
+
+        if (Number.isInteger(n / i)) {
+
+            dn.push(i);
+
+        }
+
+    }
+    //finding divisors of denominator between 2 & 100
+
+    for (i = 2; i < 101; i++) {
+
+        if (Number.isInteger(d / i)) {
+
+            dd.push(i);
+
+        }
+
+    } //finding common divisors of denominator
+
+    for (i = 0; i < dn.length; i++) {
+
+        for (j = 0; j < dd.length; j++) {
+
+            x = dn[i];
+            y = dd[j];
+
+            if (x == y) {
+                df.push(x);
+            }
+        }
+
+    }
+
+
+}
+
+
+
+
+
